@@ -1,5 +1,5 @@
 function preload() {
-    mustache = loadImage("https://i.postimg.cc/44tZ4pzm/moustache.png");
+    mustache = loadImage("https://i.postimg.cc/3x3QzSGq/m.png");
 }
 
 function setup() {
